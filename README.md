@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning  Front-End Development | UI/UX | HTML | CSS | JavaScript
-- 🤔 I’m looking for help with I want to learn more about Development
+
 
 
 ##
