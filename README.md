@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning  Front-End Development | UI/UX | HTML | CSS | JavaScript
+- 🌱 I’m currently learning UI/UX | HTML | CSS | JavaScript
 
 
 
